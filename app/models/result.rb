@@ -1,7 +1,5 @@
-def 
-  if 
-  elseif
-  
+
+
 
 class Result
 
