@@ -6,3 +6,5 @@ class ApplicationController < Sinatra::Base
   end
 
 end
+
+#this should contain my get routes (what I learned with Sinatra)!
